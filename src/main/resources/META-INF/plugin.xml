@@ -1,7 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.lizaerem.idepluginaction</id>
-    <name>ide-plugin-action- Template</name>
+    <name>IDE Action Plugin</name>
     <vendor>lizaerem</vendor>
 
     <depends>com.intellij.modules.platform</depends>
