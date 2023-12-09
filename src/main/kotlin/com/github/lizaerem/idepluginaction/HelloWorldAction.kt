@@ -1,9 +1,9 @@
 package com.github.lizaerem.idepluginaction
 
-import com.intellij.openapi.actionSystem.AnAction
 import com.intellij.openapi.actionSystem.AnActionEvent
+import com.intellij.openapi.project.DumbAwareAction
 
-class HelloWorldAction : AnAction() {
+class HelloWorldAction : DumbAwareAction() {
     override fun update(e: AnActionEvent) {
         e.presentation.isEnabled = true
     }

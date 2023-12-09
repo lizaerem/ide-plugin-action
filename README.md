@@ -2,7 +2,7 @@
 
 ![Build](https://github.com/lizaerem/ide-plugin-action-/workflows/Build/badge.svg)
 ![](https://img.shields.io/badge/Kotlin-orange)
-[![GitHub release (with filter)](https://img.shields.io/github/v/release/lizaerem/ide-plugin-action)](https://github.com/lizaerem/ide-plugin-action/releases/tag/v0.1.0-alpha)
+[![GitHub release (with filter)](https://img.shields.io/github/v/release/lizaerem/ide-plugin-action)](https://github.com/lizaerem/ide-plugin-action/releases/tag/v1.0.0)
 
 ---
 
