@@ -4,10 +4,6 @@
     <name>IDE Action Plugin</name>
     <vendor>lizaerem</vendor>
 
-        <description><![CDATA[
-            This is a simple plugin that adds an action to IntelliJ IDEA.
-        ]]></description>
-
     <depends>com.intellij.modules.platform</depends>
 
     <actions>
