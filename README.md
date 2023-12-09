@@ -9,6 +9,13 @@
 <!-- Plugin description -->
 A simple plugin that adds an action to IntelliJ IDEA.
 <!-- Plugin description end -->
+- Dialog window:
+
+![image](https://github.com/lizaerem/ide-plugin-action/assets/70374721/fd50f789-d5f7-492e-aa85-dcac314ff2dc)
+- Can be accesed from `Tools` as well as via `Search Everywhere` feature:
+
+![image](https://github.com/lizaerem/ide-plugin-action/assets/70374721/8a5feb77-7296-42d0-88b2-883795fa232e)
+![image](https://github.com/lizaerem/ide-plugin-action/assets/70374721/1ca7ac3d-b47c-454d-b1bb-0dd0b9fcd088)
 
 ## Installation
   
