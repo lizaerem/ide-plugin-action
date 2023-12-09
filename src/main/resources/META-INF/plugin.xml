@@ -4,18 +4,21 @@
     <name>IDE Action Plugin</name>
     <vendor>lizaerem</vendor>
 
-    <description><![CDATA[
-        This is a simple plugin that adds an action to IntelliJ IDEA.
-    ]]></description>
+        <description><![CDATA[
+            This is a simple plugin that adds an action to IntelliJ IDEA.
+        ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
 
-    <action
-            id="com.github.lizaerem.idepluginaction.HelloWorldAction"
-            class="com.github.lizaerem.idepluginaction.HelloWorldAction"
-            text="Hello World"
-            description="My Hello World Plugin Action"
-            icon="/icons/myIcon.svg">
-        <add-to-group group-id="MainMenu" anchor="first"/>
-    </action>
+    <actions>
+        <action
+                id="com.github.lizaerem.idepluginaction.HelloWorldAction"
+                class="com.github.lizaerem.idepluginaction.HelloWorldAction"
+                text="Click me!"
+                description="My super-duper fancy plugin"
+                icon="/icons/myIcon.svg">
+            <add-to-group group-id="ToolsMenu" anchor="first"/>
+        </action>
+    </actions>
+
 </idea-plugin>
